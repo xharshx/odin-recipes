@@ -1,0 +1,22 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 55px;
+    font-weight: bolder;
+    color: grey;
+    background-color: whitesmoke;
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    list-style: none;
+}
